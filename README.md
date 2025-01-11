@@ -27,10 +27,10 @@ You are expected to do the following to complete this project:
 	- ~~Author: "Jane Doe"~~
 	- ~~Body: "My name is Jane Doe and this is my first article!"~~
 	- ~~Upload an image of your choice. Must be either a .png or .jpg.~~
-   After saving, click back on the article you created and provide a screenshot proving that it was created successfully. Please also make sure the URL is present in the screenshot.
-8. Log into the Azure Portal, go to your Resource Group, and provide a screenshot including all of the resources that were created to complete this project. (see sample screenshot in "example_images" folder)
-9. Take a screenshot of the Redirect URIs entered for your registered app, related to the MS Login button.
-10. Take a screenshot of your logs (can be from the Log stream in Azure) showing logging from an attempt to sign in with an invalid login, as well as a valid login.
+   ~~After saving, click back on the article you created and provide a screenshot proving that it was created successfully. Please also make sure the URL is present in the screenshot.~~
+8. ~~Log into the Azure Portal, go to your Resource Group, and provide a screenshot including all of the resources that were created to complete this project. (see sample screenshot in "example_images" folder)~~
+9. ~~Take a screenshot of the Redirect URIs entered for your registered app, related to the MS Login button.~~
+10. ~~Take a screenshot of your logs (can be from the Log stream in Azure) showing logging from an attempt to sign in with an invalid login, as well as a valid login.~~
 
 ## example_images Folder
 
